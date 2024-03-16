@@ -1,5 +1,3 @@
-# spec/models/string_calculator_spec.rb
-
 require 'rails_helper'
 
 RSpec.describe StringCalculator, type: :model do
