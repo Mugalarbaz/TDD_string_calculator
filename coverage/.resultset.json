@@ -1,0 +1,139 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/rails/string_calculator_tdd/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/rails/string_calculator_tdd/app/helpers/string_calculators_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/home/rails/string_calculator_tdd/app/models/string_calculator.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          6,
+          null,
+          5,
+          5,
+          5,
+          null,
+          null,
+          1,
+          null,
+          1,
+          5,
+          5,
+          null,
+          5,
+          1,
+          null,
+          null,
+          5,
+          null,
+          null,
+          1,
+          5,
+          null,
+          null,
+          1,
+          17,
+          null,
+          5,
+          1,
+          null,
+          null,
+          4,
+          null,
+          null
+        ]
+      },
+      "/home/rails/string_calculator_tdd/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/rails/string_calculator_tdd/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/string_calculator_tdd/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/string_calculator_tdd/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/string_calculator_tdd/app/controllers/string_calculators_controller.rb": {
+        "lines": [
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/string_calculator_tdd/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/home/rails/string_calculator_tdd/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1710553349
+  }
+}
